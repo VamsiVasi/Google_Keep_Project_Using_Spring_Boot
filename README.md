@@ -1,1 +1,15 @@
-# Google_Keep_Project_Using_Spring_Boot
+# _Google Keep Backend_
+
+_**Google Keep Spring Boot Project Using MongoDB**_
+
+# _Software Requirements_
+* Database : [MongoDB](https://www.mongodb.com/try/download/community)
+* IDE : [Eclipse](https://www.eclipse.org/downloads/)
+* Java Version : [Java 11](https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html)
+* Type : Gradle
+
+# _Includes_
+* Crud Operations
+* Exception Handling
+* Integration Testing
+* Unit Testing
